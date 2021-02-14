@@ -1,1 +1,14 @@
+title: Renfrew's blog
+author: Liang Chen (Renfrew)
+email: Renfrew_world@hotmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This will be my static blog site and will be intergrated into Renfrew's space
+
+# social links
+#twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  renfrew # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+# theme
 theme: jekyll-theme-cayman
